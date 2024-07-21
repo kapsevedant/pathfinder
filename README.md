@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/kapsevedant/pathfinder/blob/master/public/pathfinding.png?raw=true)
+![alt text]([https://github.com/kapsevedant/pathfinder](https://kapsevedant.github.io/pathfinder/)/blob/master/public/pathfinding.png?raw=true)
 
 
 
@@ -10,7 +10,7 @@
 
 Pathfinding Visualizer is an application that visualizes Pathfinding algorithms in action.
 
-Live Demo - https://alikhutaba.github.io/Pathfinding-Viusualizer/
+Live Demo - [https://kapsevedant.github.io/pathfinder/]
 
 Implemented Algorithm:
 
