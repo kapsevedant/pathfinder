@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/alikhutaba/Pathfinding-Viusualizer/blob/master/public/pathfinding.png?raw=true)
+![alt text](https://github.com/kapsevedant/pathfinder/blob/master/public/pathfinding.png?raw=true)
 
 
 
